@@ -1,3 +1,25 @@
+Quant-Projects
+Volatility adjusted positions and order postings
+
+Quantitative portfolio optimization with inspiration from schur components and quantum particle compositions
+
+min-max strategy - forecasting
+
+SQRT strategy - statistical patterns
+
+Full-order-book multi-agent simulator with learn-to-trade RL bots
+
+Meta-learning framework that hot-swaps models intraday based on entropy of live features
+
+probabilistic-programming risk engine with automatic adjoint greeks
+
+self-supervised alt-data miner that converts web/noise into trade-ready factors
+
+differentiable back-tester with gradient-based strategy search
+
+adversarial market-impact model trained on billions of historical prints
+
+
 # WTECH
 This repository is used for the algorithmic trading done with the startup company WTECH.
 
