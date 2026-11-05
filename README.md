@@ -18,6 +18,25 @@ self-supervised alt-data miner that converts web/noise into trade-ready factors
 differentiable back-tester with gradient-based strategy search
 
 adversarial market-impact model trained on billions of historical prints
+Ideelt produkt
+
+Forbindelse mellem SQL database, excel, python, r og et overbliks produkt
+Forbindelser til API'er
+Gennemtænke hele processen og justere dashboardet for optimal bruger venlighed.
+
+
+c++
+
+Unikt setup for at systemet fungere korrekt?
+
+
+Capital reserving software
+Investment research & guidance software
+
+
+Bloomberg er absolut adjustable. Man kan rykke, flytte, strække og transformere alting I dets interface.
+Man kan altså vælge AAPL, prisgraf, volume, linjer, moving averages osv.
+Derudover så kan man se optioner, tickers generalt, nyheder og meget mere.
 
 
 # WTECH
@@ -552,6 +571,53 @@ For the same reasons as layer 1.
 			
 	5. Hvordan skal der betales for arbejdet?
 	
+	1. Python packages for finance
+		a. Options data, stocks data, bonds data, commodities data
+			i. Stock data with yfinance.
+			ii. Options data with yfinance
+			iii. Currency data with yfinance
+			iv. Commodities data with yfinance
+			v. Bond data - nothing yet
+			vi. Upgrade to direct data extraction from bloomberg, Refinitiv, Nasdaq or others
+		b. Risk management framework
+			i. VaR
+			ii. CVaR
+			
+		c. Pricing frameworks
+			i. Options prisfastsættelse
+			ii. Forward prisfastsættelse
+			iii. Futures prisfastsættelse
+			
+		d. Insurance frameworks
+Claims number & size models, premium calculations, credibility, claims reserving, ruin process
+			i. Tyche framework?
+			ii. Cramer-lundberg framework
+			iii. Renewal(sparre-andersen) framework
+			iv. Ammeter framework
+		e. Portfolio frameworks
+			i. Rebalancering af porteføljer
+			ii. Porteføljevægte
+			iii. Aktivallokeringer(asset allocation)
+		f. Simulation engines
+			i. Brownian motion
+			ii. Poisson process
+			iii. Markov process
+	2. Python packages for statistics
+		a. Statistical tests
+		b. Statistical inference
+		c. Statistical estimation
+	3. Python packages for probability
+		a. Basic probability
+		b. Advanced probability
+		c. Conditional probability
+		d. Joint probability
+		e. Stochastic processes
+	4. Python pakke til adh-hoc IT
+		a. Data quality & data cleanup
+		b. Database og api forbindelser
+		c. Visualiseringer og dashboard
+	5. Multithreading, vectorization, adjoint differentiation
+	6. Machine learning & profiling
 
 
 Co-pilot
