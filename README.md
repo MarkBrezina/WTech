@@ -209,3 +209,39 @@ Cross-Validation (CV) Strategy and Feature Engineering:
 Use autoencoder to create new features, concatenating with the original features as the input to the downstream MLP model Train autoencoder and MLP together in each CV split to prevent data leakage Add target information to autoencoder (supervised learning) to force it to generate more relevant features, and to create a shortcut for backpropagation of gradient Add Gaussian noise layer before encoder for data augmentation and to prevent overfitting Use swish activation function instead of ReLU to prevent ‘dead neuron’ and smooth the gradient Batch Normalisation and Dropout are used for MLP Train the model with 3 different random seeds and take the average to reduce prediction variance Only use the models (with different seeds) trained in the last two CV splits since they have seen more data Only monitor the BCE loss of MLP instead of the overall loss for early stopping Use Hyperopt to find the optimal hyperparameter set
 
 https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/discussion/274970 https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/487446 https://www.kaggle.com/competitions/jane-street-market-prediction/discussion/224348
+
+
+
+
+Navn. Tomorrow
+Type, High-frequency trading(technical), Low frequency trading(fundamental)
+Requirements 40000 cash for ApS, ??? For A/S. 10. Mil for investment company
+Depotselskab, bankkonto erhverv, hjemmeside, teknologi, it, lei-id 
+
+Investeringsfond og kunde bank
+
+
+Improvement points
+Skal have mere styr på skatteregler, opbygge formue
+	1. Investere i yty, yt3y, yt5y, profitable og gennemtænkte virksomheder med høj dividende.
+	Køb under indreværdi, sælg over profitable værdi
+	2. Tag fast beløb på 200kr Per år Per kunde. Sådan at ca. 100 kunder kan dække afgifter Per år
+	3. Gør det hele til et “non-profit” scheme
+
+Tomorrow 
+Summary documents
+Legal documents
+Customer documents
+Client documents
+Analysis documents
+Technical documents
+Programming setup
+
+Tomorrow holding
+-investments fund
+-ressources company
+-learning institution, AI robots, AI predictive modelling, Library of everything
+
+	
+
+
