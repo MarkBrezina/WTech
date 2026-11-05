@@ -20,6 +20,174 @@ differentiable back-tester with gradient-based strategy search
 adversarial market-impact model trained on billions of historical prints
 Ideelt produkt
 
+
+Kundesegmenter
+	
+	B2C, for investorer, traders osv. 
+	B2B, for store banker, forsikringsselskaber osv.
+	
+
+Værditilbud
+
+	B2C værditilbud, en webapp der hjælper med at danne overblik over investeringsporteføljer.
+	
+	
+B2B, et gennemgående system som kan håndtere alle behov og forbinde alle niveauer I organisationen, såsom traders, låneudgivere, økonomi afdelingen og ledelsen
+	- Intern app med portefølje overblik, grafer, simulationsværktøjer og basale risk management og analyseværktøjer.
+	Forbindelser til layer 1, layer 2 og layer 3 I basis pakken.
+	Årligt abonnement struktur.
+	- Avanceret ledelsesinformation tilføjelse
+	- Avanceret analyseværktøjer tilføjelse
+	- Avanceret risk management tilføjelse
+	- Specifikations tilføjelser, Banking package, Insurance package, hedge fund package, ESG package
+
+B2C, et overblikssystem over dine investeringer, som samtidigt giver dig adgang til avancerede værktøjer, I tilfælde af at det er din interesse at bruge sådanne.
+	- Baseplatform på nettet til abonnement, med portefølje overblik, 
+	- Grafer og simulationsværktøj, risk management og analyseværktøjer kan tilkøbes.
+	
+
+Ni byggesten
+	• Kundesegmenter, hvilke kunder søger vi?
+		○ Deres behov nødvendiggør og berettiger til et særligt produkt
+		○ De kan nås gennem forskellige distributionskanaler
+		○ De kræver forskellige typer relationer
+		○ De har vidt forskellig rentabilitet
+		○ De er villige til at betale for forskellige aspekter af produktet
+	• Værditilbud, Løse kundernes problemer og opfylde deres behov vha. Produkt
+		○ Nyhed
+		○ Præstation
+		○ Individuel tilpasning
+		○ "Få opgaven løst"
+		○ Design
+		○ Brand/Status
+		○ Pris
+		○ Omkostningsreduktion
+		○ Risikoreduktion
+		○ Tilgængelighed, som I at der tidligere ikke har været mulighed for at få dette produkt.
+		○ Bekvemmelig/anvendelig
+	• Kanaler, produkterne leveres til kunderne gennem kommunikation, distribution og salg
+		○ Typer af salgskanaler
+			§ Direkte: Salgsstyrke eller Internetsalg
+			§ Indirekte: Egne butikker, Partner butikker eller Grossister
+		○ Bevidsthed: Hvordan øger man bevidsthed om virksomhedens produkter og ydelser?
+		○ Evaluering: Hvordan hjælper vi kunderne med at evaluere og beslutte sig for vores virksomhed?
+		○ Køb, Hvordan giver vi kunderne mulighed for at købe konkrete produkter og ydelser?
+		○ Levering, hvordan leverer vi resultatet til kunden?
+		○ Efter salg, hvordan yder vi support til kunden efter købet?
+	• Kunderelationer, kunderne etableres og vedligeholdes.
+		○ Dette kan gøres personligt eller automatisk.
+			§ Kundehverving, kundefastholdelse og mer salg.
+		○ Personlig betjening
+		○ Allokeret personlig betjening
+		○ Selvbetjening
+		○ Automatiseret service
+		○ Medskabelse, hvor kunderne tager del I virksomhedens udvikling
+	• Indtægtsstrømme, resultat af produkter der vellykket tilbydes til kunderne
+		○ Transaktionsbaserede indtægter som følge af enkeltstående kundebetalinger
+		○ Tilbagevendende indtægter, som følge af løbende betalinger for levering af enten et værditilbud til kunderne eller kundesupport efter købet.
+		○ Salg af aktiver - direkte salg af objekt
+		○ Brugsgebyr - pengestrøm fra brugen af tjenester
+		○ Abonnementsgebyr - løbende gentagent køb af objekt
+		○ Leje/Leasing - leje eller lån af materielt objekt
+		○ Licensering - rettigheder til brug af immateriel objekt
+		○ Mæglersalærer - løbende betaling mht. Service udført mellem to parter
+		○ Reklame - betaling som følge af reklamering for objekt eller service
+		○ Prisen kan fastsættelse med fast prissætning eller dynamisk prissætning
+			§ Faste Listepriser, produktegenskabs-afhængigt, kundesegment-afhængigt eller mængdeafhængigt
+			§ Dynamiske forhandlingsbaseret, indtægtsoptimerende, realtidsmarkedsafhængigt, auktioneret
+
+
+
+
+	• Nøgleressourcer, de aktiver, der er nødvendige for at kunne tilbyde og leverer førnævnte elementer
+		○ Fysiske, immaterielle, menneskelige, økonomiske
+	• Nøgleaktiviteter, aktiviteter der etablere nøgleressourcer
+		○ Produktion, problemløsning, platforms-orienteret - dvs. Aktiviteter I et systemet som virksomheden har udbygget
+	• Nøglepartnere, visse aktiviteter outsources og visse ressourcer skaffes udenfor virksomheden
+		○ Optimering af stordriftsfordele, reduktion af risiko og uvished, erhvervelse af bestemte ressourcer og aktiviteter
+	• Omkostningsstruktur, elementer I forretningsmodellen, som resulterer I omkostningsstruktur
+		○ Omkostningsbaserede
+		○ Værdibaserede
+		○ Faste omkostninger
+		○ Variable omkostninger
+		○ Stordriftsfordele
+		○ synergifordele
+
+
+
+
+
+Virksomhedens fire hovedområder:
+*Kunder
+*Produkt
+*Infrastruktur
+*Økonomisk rentabilitet
+
+Forretningsmodellen skal være et kort over den strategi, som implementeres gennem organisatoriske strukturer, processer og systemer.
+Rationalet bag, hvordan en organisation skaber, leverer og fastholder værdi
+
+
+Virksomheder er opdelt I tre undersegmenter:
+Produktinnovation
+Kunderelation
+Infrastruktur
+
+Det rådes således at vælge en af de tre områder at fokusere på.
+Operational excellence, at være førende på produktet eller at være tæt på kunden
+
+
+Produktinnovation.
+Tidlig introduktion på markedet gør det muligt at opkræve høje priser og opnå en stor markedsandel; tempoet er afgørende
+
+Kamp om talenterne; begrænsede barrierer for at komme ind på markedet; mange små aktører klarer sig godt.
+
+Centreret om medarbejderne; forkæler de kreative stjerner
+
+
+
+kunderelation
+Høje omkostninger ved at hverve kunder gør det bydende nødvendigt at øge salget til kunderne; synergi fordele er afgørende.
+
+kamp om rækkevidde; hurtig konsolidering; nogle få store aktører dominerer.
+
+uhyre serviceorienteret "kunden har altid ret"-mentalitet.
+
+
+Infrastruktur
+Store faste omkostninger gør det  nødvendigt med store mængder for at nedbringe prisen pr. Enhed; Stordriftsfordele er afgørende.
+
+Kamp om størrelse; hurtig konsolidering; nogle få store aktører dominerer.
+
+Fokuseret på omkostninger; lægger vægt på standardisering, forudsigelighed og effektivitet.
+
+
+Åbneforretningsmodel.
+Virksomheden kan bruges af virksomheder, personer eller andet til at skabe og fastholde værdi ved systematisk at samarbejde med eksterne partnere.
+Vi må arbejde med kloge hoveder I og udenfor virksomheden.
+Ekstern r&d kan skabe betydelig værdi.
+
+
+Kundekendskab
+	- Hvilke opgaver skal vores kunder have løst og hvordan kan vi hjælpe?
+	- Hvad er vores kunders drømme og hvordan kan vi hjælpe med at få dem opfyldt?
+	- Hvordan foretrækker vores kunder at blive tiltalt? Hvordan passer vi som forretning bedst ind I deres rutiner?
+	- Hvilken relation ønsker vores kunder, at vi etablerer med dem?
+	- Hvilke værdier er kunderne egentlig villige til at betale for?
+
+
+Tilfredsstille markedet, at opfylde et uopfyldt beho
+Bringe nye teknologier på markedet
+Forbedre markedet
+Skabe et nyt marked.
+
+
+Finde den rette model, afprøve modellen før lancering I fuld målestok
+Få markedet til at tage virksomheden til sig, tilpasse sig til feedback
+Håndtere usikkerhedsmomenterne
+
+
+
+
 Forbindelse mellem SQL database, excel, python, r og et overbliks produkt
 Forbindelser til API'er
 Gennemtænke hele processen og justere dashboardet for optimal bruger venlighed.
