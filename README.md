@@ -244,4 +244,127 @@ Tomorrow holding
 
 	
 
+Machine learning
+Is the field of study inside the study of artificial intelligence, where the focus is on statistical algorithms that can effectively generalize and thus perform tasks without explicit instructions.
+
+
+
+Deep learning
+
+Is a subset of machine learning, so statistical methods for generalized task performance.
+They're usually artificial neural networks with representation learning.
+Deep means multiple layers in the network, they're used to progressively extract higher-level features from the data input.
+
+
+Artificial neural networks
+
+
+
+
+
+
+Unsupervised learning(data driven)
+Dimensionality reduction (structure discovery, feature discovery, visualisations of big data, meaningful compression)
+Clustering ( recommendation systems, segmentation, targetted marketing)
+prediction(?)
+
+
+K means clustering
+Mean-shift clustering
+DBSCAN clustering
+ (Gaussian)Mixture model
+ Dirichlet process
+Neural networks
+Hidden Markov Model
+(Agglomerative) Hierachical clustering
+
+Supervised learning(task driven)
+Classification/Regression/Estimation
+
+
+
+Classification(diagnostics, customer retention, image classification, fraud detection)
+Support vector machines
+Naive Bayes classifier
+Discriminate analysis
+K - Nearest Neighbour
+Neural Networks
+Decision Trees
+Random forest
+Gradient boosting
+Ensemble Methods
+Nonlinear regression
+
+Regression (popularity/growth prediction, forecasting, estimating life expectancy)
+Neural networks
+Decision Trees
+Ensemble methods
+Nonlinear regression
+Linear regression
+Support vector regression
+Lasso regression
+Ridge Regression
+Logistic regression
+ElasticNet Regression
+SVR, RVR, GPR
+Poisson Regression
+
+
+
+
+Reinforcement learning(Decision-making)
+Game AI, skill acquisition, learning tasks, robot navigation, real-time decisions
+
+Algorithms that learn to react to an environment
+Q-learning
+R-learning
+TD learning
+DQNs
+SARSA
+DDPG
+
+Artificial Intelligence?
+Deep learning?
+
+
+Keras
+Tensorflow
+Scikit-learn
+pyTorch
+XGBoost
+NLTK
+SpaCy
+
+
+Turing test
+
+chatbot
+
+ChatGPT
+https://chat.openai.com/
+
+Image generation
+
+Midjourney/DALL-E
+https://www.midjourney.com/home?callbackUrl=%2Fexplore
+
+
+
+Webcrawlers
+
+Phind
+https://www.phind.com/
+
+Webcrawlers
+https://www.webcrawler.com/
+
+
+Google - plain and simple
+
+SIRI - voice recognition
+
+
+Co-pilot
+https://github.com/features/copilot
+<img width="926" height="4046" alt="image" src="https://github.com/user-attachments/assets/51097bc2-84ef-4fc8-a699-9f180cd76d39" />
 
