@@ -361,7 +361,197 @@ https://www.webcrawler.com/
 
 Google - plain and simple
 
+	1. Planlægge programmets målsætning
+		a. Skal kunne løse følgende problemstillinger
+			i. Forudse fremtiden
+			ii. Risikostyre imod fremtidige problemstillinger
+			iii. Holde og danne overblik
+			iv. Hjælpe med rapporteringer
+			v. Hjælpe med regnskab
+			vi. Auto data indlæse
+			vii. Holde styr på kapital reserve
+			viii. Premium beregninger
+			ix. IRB
+			x. Investeringsperformance
+	2. Hvilke funktioner skal programmet opfylde
+		a. Funktion 1
+		b. Funktion 2
+		c. Skal kunne vise relevante nyheder og brugbart "further your knowledge" mulighed
+	3. Hvordan skal GUI være opsat.
+		a. Design tema
+		b. Sideplan, hvor skal hovedsiden lede hen og hvilke ekstra sider skal der være
+		c. Hvordan skal man kunne få fat i funktioner
+	4. Hvad kræves der for at programmet kan fungere korrekt.
+	5. Hvordan skal kunderne betale for programmet.
+
+
 SIRI - voice recognition
+	1. Planlægge programmets målsætning
+		a. Skal kunne løse følgende problemstillinger
+			i. Forudse fremtiden
+			ii. Risikostyre imod fremtidige problemstillinger
+			iii. Holde og danne overblik
+			iv. Hjælpe med rapporteringer
+			v. Hjælpe med regnskab
+			vi. Auto data indlæse
+			vii. Holde styr på kapital reserve
+			viii. Premium beregninger
+			ix. IRB
+			x. Investeringsperformance
+	2. Hvilke funktioner skal programmet opfylde
+		a. Funktion 1
+		b. Funktion 2
+		c. Skal kunne vise relevante nyheder og brugbart "further your knowledge" mulighed
+	3. Hvordan skal GUI være opsat.
+		a. Design tema
+		b. Sideplan, hvor skal hovedsiden lede hen og hvilke ekstra sider skal der være
+		c. Hvordan skal man kunne få fat i funktioner
+	4. Hvad kræves der for at programmet kan fungere korrekt.
+	5. Hvordan skal kunderne betale for programmet.
+
+Bevægelses engine
+Trades
+Transaktioner
+Invoices
+
+Opbevarelse
+Af bankingbook
+Af investeringer
+Af Capital
+Af budget
+Database til oversigt over
+Kunder
+Items
+Trades
+Transaktioner
+Invoices
+Investeringer
+Policies
+
+Utility
+Noter
+Pipelines
+Datagruppering
+Dataredigering
+Messages
+
+Dashboard og KPIer
+Inddeling af system i forskellige lag
+Grafer og visualiseringer
+Forecasting og predictive analyse
+
+Layer 1 - ledelsesinformation
+
+Expenses, liabilities, assets, income
+
+Dashboard, budget/balance sheet
+Overview visualizations
+powerBI-like
+
+Simulation option
+It should be possible to activate a simulation
+Option, where certain scenarios can be simulated and decision-making can be tested
+
+Real time option
+It should be possible to activate or default to a real-time option, where current affairs are displayed
+
+Coder's option
+It should be possible to activate a coder's option, to customized the interface for each company without having to contact technical support and make a big show out of everything.
+
+Has to be able to recommend interface setups with AI and possible optimizations of company with AI
+
+Layer 2 - middle office and operations
+
+Investments, loans, insurance policies, projects etc.
+Portfolio structure, select a portfolio and overview its contents
+
+Has to activate different analysis sublayers, depending on the type of portfolio.
+
+Analysis sublayers
+
+Use investment analysis
+	Fundamental analysis for portfolio managers
+	ESG analysis for ESG analysts
+	Technical analysis for traders?
+Use loans analysis
+Use insurance analysis
+
+
+Example:
+To determine whether a purchase or sale is a good idea
+Selling or buying an equity for a portfolio.
+Selling or buying an insurance policy
+
+Has to have a simulation option, real-time option and coder's option
+For the same reasons as layer 1.
+
+Must be able to apply optimization of portfolios with and without AI
+Must also be able to apply newest analysis tools for pricing and hedging
+
+Layer 3 - risk management and critical issues
+
+-Has to have a fraud estimation function. To estimate whether a claim or transaction is fraudulent.
+-Has to have a capital reserving function
+
+
+-has to have a ruin process, to estimate whether the company will survive and stay solvent.
+-has to have a claims process, to estimate the expected payout from the reserves over a given period of time
+-has to have a premium calculation and credibility process
+To estimate what amount of premium is expected for any given policy holder to achieve the given return.
+
+-has to have an anti-money laundrering process.
+
+-has to have an investment risk process, for which currency risk, value at risk, interest rate risk, derivatives risk and more has to be included
+-has to have a default risk process for counterparties.
+-has to have an allocation, ESG and diversification metric
+
+
+Has to have a simulation option, real-time option and coder's option
+For the same reasons as layer 1.
+
+
+	1. Webdomæne med brugbart navn
+	2. Hjemmeside
+	3. Planlægge programmets målsætning
+		a. Skal kunne løse følgende problemstillinger
+			i. Forudse fremtiden
+			ii. Risikostyre imod fremtidige problemstillinger
+			iii. Holde og danne overblik
+			iv. Hjælpe med rapporteringer
+			v. Hjælpe med regnskab
+			vi. Auto data indlæse
+			vii. Investeringsperformance
+	4. Planlægge UI og funktionaliteter
+		a. Hvordan skal GUI se ud
+			i. Design tema
+			ii. Sideplan, hvor skal hovedsiden lede hen og hvilke ekstra sider skal der være
+			iii. Hvordan skal man kunne få fat i funktioner
+		b. Hvilke funktioner skal hjemmesiden have
+			i. Investeringsportefølje
+
+			ii. Typer af analyse
+
+			iii. Skal kunne vise relevante nyheder og brugbart "further your knowledge" mulighed
+
+			iv. Overblik over
+				1. Trades
+				2. Beholdninger
+				3. Mulige instrumenter
+				4. Portefølje KPI'er
+			
+			Mulighed for at
+				1. Undersøge instrumenter med analyse værktøjer
+				2. Undersøge KPI'er og portefølje
+				3. Undersøge scenarier og simuleringer
+				4. Søge information og nyheder
+				5. Forum
+			
+			Dashboard og KPIer
+			Grafer og visualiseringer
+			Forecasting og predictive analyse
+			
+	5. Hvordan skal der betales for arbejdet?
+	
 
 
 Co-pilot
